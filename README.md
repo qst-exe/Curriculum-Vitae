@@ -6,10 +6,10 @@
 |---|-----|
 |Name|長重 佑 (Tasuku Nagashige)|
 |Age|28|
-|Blog|[鹿児島フリーランスエンジニア](https://kusutan.com)<br>[Qiita](https://qiita.com/ntask19)<br>[note](https://note.mu/kusutann)||
+|Blog|[鹿児島フリーランスエンジニア](https://kusutan.com)<br>[Qiita](https://qiita.com/qst_exe)<br>[note](https://note.mu/kusutann)||
 |Twitter|[@qst_exe](https://twitter.com/qst_exe)|
 |YouTube|[くすたんちゃんねる](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
-|その他|[鹿児島.mkの運営(鹿児島のエンジニアコミュニティ)](https://kagoshima-mk.connpass.com/)
+|その他|[鹿児島.mkの運営(鹿児島のエンジニアコミュニティ)](https://kagoshima-mk.connpass.com/)<br>[エンジニアサークル「ヒラマサ」の運営](https://kusutan.com/tag/%e3%83%92%e3%83%a9%e3%83%9e%e3%82%b5/)|
 
 ## スキル
 
@@ -26,13 +26,13 @@
 
 #### プログラミング言語/フレームワーク
 
-| 言語/Fw | 備考 |
+| 言語/FW | 備考 |
 |---|-----|
 |PHP|業務で最も使用している|
 |GAS（Google Apps Script）|スプレッドシートやSlack等の外部アプリケーションとの連携で使用|
 |JavaScript|業務で使用している|
 |HTML/CSS|業務で使用している|
-|Python|簡単なツールの作成に使用|
+|Python|簡単なツールの作成/解析に使用|
 |Kotlin|趣味レベルで触れている|
 |Ruby|趣味レベルで触れている|
 |Golang|趣味レベルで触れている|
@@ -47,8 +47,12 @@
 |Flutter|業務で使用している|
 |Ruby on Rails|趣味レベルで触れている|
 
-| サーバ | 備考 |
+
+#### サーバ/インフラ
+
+| サーバ/インフラ | 備考 |
 |---|-----|
+|Firebase|業務で触れたことがある|
 |nginx|業務で軽く触れたことがある|
 |AWS|趣味レベルで触れている|
 |GCP|趣味レベルで触れている|
@@ -69,9 +73,6 @@
 |Ubuntu|業務で軽く触れたことがあり、業務で必要になればすぐにアジェストできる|
 |Cent OS|業務で軽く触れたことがあり、業務で必要になればすぐにアジェストできる|
 |Git（GitHub-flow）|PRとコードレビューを通したチーム開発が問題なくできるレベル。コードレビューの経験もあり|
-|nginx|業務で軽く触れたことがある|
-|AWS|趣味レベルで触れている|
-|GCP|趣味レベルで触れている|
 |制作ディレクション|リードエンジニア・ディレクターが必要とするレベルは抑えている|
 |スケジュール作成|リードエンジニア・ディレクターが必要とするレベルは抑えている|
 |進行管理|リードエンジニア・ディレクターが必要とするレベルは抑えている|
@@ -83,7 +84,7 @@
 - 英語
   - 英語のドキュメントを読むことができる
   - 英語のビジネスメールを読むことができる
-  - 前職にて、iOSアプリ開発のためのApp Storeとのビジネスメールや海外企業と文書のやり取りを英語で行っていた
+  - iOSアプリ開発のためのApp Storeとのビジネスメールや海外企業と文書のやり取りを英語で行っていた。
 - 韓国語
   - 趣味で勉強しているレベル
 
