@@ -6,9 +6,9 @@
 |---|-----|
 |Name|長重 佑 (Tasuku Nagashige)|
 |Age|28|
-|Blog|[鹿児島フリーランスエンジニア](https://kusutan.com)<br>[Qiita](https://qiita.com/ntask19)<br>[note](https://note.mu/kusutann)||
-|Twitter|[@kusutann](https://twitter.com/kusutann)|
-|YouTube|[くすたんちゃんねる](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
+|Blog|[鹿児島のアプリ開発屋さん](https://kusutan.com)<br>[Qiita](https://qiita.com/qst_exe)<br>[note](https://note.mu/qst_exe)|<br>[zenn](https://zenn.dev/qst)|
+|Twitter|[@qst_exe](https://twitter.com/qst_exe)|
+|YouTube|[くすたんちゃん](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
 |その他|[鹿児島.mkの運営(鹿児島のエンジニアコミュニティ)](https://kagoshima-mk.connpass.com/)
 
 ## スキル
@@ -30,7 +30,9 @@
 |---|-----|
 |PHP|業務で最も使用している|
 |GAS（Google Apps Script）|スプレッドシートやSlack等の外部アプリケーションとの連携で使用|
+|Dart|業務で使用している|
 |JavaScript|業務で使用している|
+|TypeScript|業務で使用している|
 |HTML/CSS|業務で使用している|
 |Python|簡単なツールの作成に使用|
 |Kotlin|趣味レベルで触れている|
@@ -43,11 +45,12 @@
 | 名称 | 備考 |
 |---|-----|
 |Laravel|業務で最も使用している|
+|Flutter|業務で使用している|
 |jQuery|業務で使用している|
 |Vue.js|業務で使用している|
+|Nuxt.js|業務で使用している|
 |Symphony|業務で軽く触れたことがある|
 |Corona SDK|Luaベースのクロスプラットフォームゲームエンジン。iOS・Android開発業務に使用している|
-|Flutter|趣味レベルで触れている|
 |Ruby on Rails|趣味レベルで触れている|
 
 | サーバ | 備考 |
@@ -68,6 +71,7 @@
 
 | その他 | 備考 |
 |---|-----|
+|Firebase|業務で利用している(Firebase Auth, Firestore, Cloud Functions, Firebase Crashlytics, Firebase App Distribution)|
 |シェルスクリプト|業務で必要な処理を効率化するレベルには書ける|
 |Ubuntu|業務で軽く触れたことがあり、業務で必要になればすぐにアジェストできる|
 |Cent OS|業務で軽く触れたことがあり、業務で必要になればすぐにアジェストできる|
@@ -105,7 +109,9 @@
 
 ### 2019/05 - : フリーランスエンジニア
 
-フリーランスエンジニアとして、Laravel案件を中心にリモートワークで受けています。
+- フリーランスエンジニアとして、Laravel, Flutter, Nuxt.js案件を中心にリモートワークで受けています
+- 専門学校で非常勤講師としてPHPの授業を行っています
+- アプリ開発も個人で受託しています
 
 ### 2014/04 - 2019/04 : 株式会社freep
 
