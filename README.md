@@ -5,10 +5,10 @@
 |key|value|
 |---|-----|
 |Name|長重 佑 (Tasuku Nagashige)|
-|Age|28|
+|Age|29|
 |Blog|[鹿児島のアプリ開発屋さん](https://kusutan.com)<br>[Qiita](https://qiita.com/qst_exe)<br>[note](https://note.mu/qst_exe)|<br>[zenn](https://zenn.dev/qst)|
 |Twitter|[@qst_exe](https://twitter.com/qst_exe)|
-|YouTube|[くすたんちゃん](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
+|YouTube|[くすたんちゃんねる](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
 |その他|[鹿児島.mkの運営(鹿児島のエンジニアコミュニティ)](https://kagoshima-mk.connpass.com/)
 
 ## スキル
