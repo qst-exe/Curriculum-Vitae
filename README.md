@@ -6,9 +6,8 @@
 |---|-----|
 |Name|長重 佑 (Tasuku Nagashige)|
 |Age|29|
-|Blog|[鹿児島のアプリ開発屋さん](https://kusutan.com)<br>[Qiita](https://qiita.com/qst_exe)<br>[note](https://note.mu/qst_exe)<br>[zenn](https://zenn.dev/qst)|
+|Blog|[鹿児島のアプリ屋さん](https://blog.hhg-exe.jp)<br>[Qiita](https://qiita.com/qst_exe)<br>[note](https://note.mu/qst_exe)<br>[zenn](https://zenn.dev/qst)|
 |Twitter|[@qst_exe](https://twitter.com/qst_exe)|
-|YouTube|[くすたんちゃんねる](https://www.youtube.com/channel/UCuYiSs3MVn3BWtHPsGQ8vIA?sub_confirmation=1)|
 |その他|[鹿児島.mkの運営(鹿児島のエンジニアコミュニティ)](https://kagoshima-mk.connpass.com/)
 
 ## スキル
@@ -36,10 +35,10 @@ SNSやソーシャルゲームのフロントエンド、バックエンドを�
 |TypeScript|業務で使用している|
 |HTML/CSS(Sass)|業務で使用している|
 |Lua|業務で使用している|
+|Ruby|業務で使用している|
 |Python|簡単なツールの作成/解析に使用|
 |Swift|趣味レベルで触れている|
 |Kotlin|趣味レベルで触れている|
-|Ruby|趣味レベルで触れている|
 |Golang|趣味レベルで触れている|
 |---|-----|
 |Laravel|業務で最も使用している|
@@ -49,7 +48,7 @@ SNSやソーシャルゲームのフロントエンド、バックエンドを�
 |Symphony|業務で軽く触れたことがある|
 |Corona|iOS・Androidのゲーム開発業務に使用している|
 |Flutter|業務で使用している|
-|Ruby on Rails|趣味レベルで触れている|
+|Ruby on Rails|業務で使用している|
 |echo|趣味レベルで触れている|
 
 
@@ -68,6 +67,7 @@ SNSやソーシャルゲームのフロントエンド、バックエンドを�
 | DB | 備考 |
 |---|-----|
 |MySQL|業務で最も使用しており、DBの1からの設計から可能|
+|PostgreSQL|業務で使用している|
 |Redis|業務で使用している|
 |SQLite|スマホアプリ開発で使用している|
 
